@@ -1,3 +1,4 @@
+![logo](https://github.com/kamalkumarx/kamalkumarx/blob/main/stock-photo-big-data-technology-and-data-science-illustration-data-flow-concept-querying-analysing-2236217443.jpg)
 <h1 align="center">Hi 👋, I'm Kamal Kumar</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
 
