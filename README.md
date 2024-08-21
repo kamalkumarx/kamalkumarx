@@ -1,10 +1,8 @@
-![logo](https://github.com/kamalkumarx/kamalkumarx/blob/main/stock-photo-big-data-technology-and-data-science-illustration-data-flow-concept-querying-analysing-2236217443.jpg)
+
 <h1 align="center">Hi 👋, I'm Kamal Kumar</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
 - 🔭 I’m currently working on **SQL Project**
 
 - 🌱 I’m currently learning **C++ | MySQL | Git | HTML | CSS | MS Excel | Power BI | Python(Numpy, Pandas, Matplotlib, Seaborn) | Data Cleaning | Data Visualization | Qiskit | MATLAB*| Quantum Computing**
