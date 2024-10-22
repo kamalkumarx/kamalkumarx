@@ -14,7 +14,7 @@
 -  Data Analytics and Visualization : Python Data Analytics (Numpy, Pandas, Matplotlib, Seaborn) |  Power BI\Tableau.
 -  Tools: MS Excel |  Power Point | Canva |  GIT |  JIRA | UAT |  MS Office | OpenAI |  Jupyter Notebook |  PyCharm | VS Code .
 -  Hard Skills: Data Modeling |  Data Visualization | Statistical Data Analysis | Google Analytics | Data Analysis.
-- 👨‍💻 All of my projects are available at [https://kamalkumar.netlify.app/](https://kamalkumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kamalkumar.netlify.app/](https://kamalportfoliox.netlify.app/about)
 
 - 📫 How to reach me **kamalrockkumar14@gmail.com**
 
